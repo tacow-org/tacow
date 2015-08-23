@@ -1,5 +1,5 @@
 | Date | Speakers | Topics |
-| :- | :- | :- |
+| :------------- | :------------- | :------------- |
 | **2006** |||
 | 04/11 | [Karl Moskowski](https://about.me/kolpanic) | Subversion |
 | | [David LeBer](http://davidleber.net) | Ajax with WebObjects |
