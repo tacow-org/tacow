@@ -40,7 +40,7 @@
 |  | open discussion | SecondConf recap |
 | **2012** |||
 | 01/10 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | BAScene (Scene Kit) |
-| 03/13 | Dave Fernandes | A Mac app for voice and speech research—Core Data, Core Audio & Accelerate.framework |
+| 03/13 | [Dave Fernandes](http://mintleafsoftware.com/about-mintleaf/company-founder.html) | A Mac app for voice and speech research—Core Data, Core Audio & Accelerate.framework |
 | 05/08 | [Ash Furrow](http://ashfurrow.com) | Advanced scroll-view techniques |
 | 07/10 | Derek Longmuir | Continuous deployment for iOS using Jenkins |
 | 09/11 | [Jim Dovey](https://twitter.com/alanQuatermain) | File coordination APIs and iCloud synching |
