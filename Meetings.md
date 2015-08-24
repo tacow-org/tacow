@@ -23,7 +23,7 @@
 | **2009** |||
 | 01/13 | open discussion | iPhone Tech Talk recap; MWSF discussion; Q&A; tips |
 | | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of MarketCircle apps |
-| 04/14 | David Aspinall | Unit testing |
+| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing |
 | 07/14 | [Karl Moskowski](https://about.me/kolpanic) | ZipKit |
 | 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks |
 | | [Aaron Vegh](https://twitter.com/aaronvegh) | Blitz talk |
@@ -34,7 +34,7 @@
 | 10/12 | [Jim Dovey](https://twitter.com/alanQuatermain) | iOS data and network optimization techniques |
 | **2011** |||
 | 01/18 | [Karl Moskowski](https://about.me/kolpanic) | Prettifying Objective-C |
-| 04/12 | David Aspinall | Sync |
+| 04/12 | [David Aspinall](https://twitter.com/daspinall) | Sync |
 | 07/12 | [Rune Madsen](https://twitter.com/runmad) | Core Location |
 | 10/11 | [Derek Longmuir](https://twitter.com/dereklongmuir) | iOS testing |
 |  | open discussion | SecondConf recap |
