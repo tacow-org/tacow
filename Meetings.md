@@ -36,13 +36,13 @@
 | 01/18 | [Karl Moskowski](https://about.me/kolpanic) | Prettifying Objective-C |
 | 04/12 | David Aspinall | Sync |
 | 07/12 | [Rune Madsen](https://twitter.com/runmad) | Core Location |
-| 10/11 | Derek Longmuir | iOS testing |
+| 10/11 | [Derek Longmuir](https://twitter.com/dereklongmuir) | iOS testing |
 |  | open discussion | SecondConf recap |
 | **2012** |||
 | 01/10 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | BAScene (Scene Kit) |
 | 03/13 | [Dave Fernandes](http://mintleafsoftware.com/about-mintleaf/company-founder.html) | A Mac app for voice and speech research—Core Data, Core Audio & Accelerate.framework |
 | 05/08 | [Ash Furrow](http://ashfurrow.com) | Advanced scroll-view techniques |
-| 07/10 | Derek Longmuir | Continuous deployment for iOS using Jenkins |
+| 07/10 | [Derek Longmuir](https://twitter.com/dereklongmuir) | Continuous deployment for iOS using Jenkins |
 | 09/11 | [Jim Dovey](https://twitter.com/alanQuatermain) | File coordination APIs and iCloud synching |
 | 11/13 | [Aaron Vegh](https://twitter.com/aaronvegh) | CouchDB |
 | **2013** |||
