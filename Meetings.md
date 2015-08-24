@@ -16,10 +16,10 @@
 | | [Jim Dovey](https://twitter.com/alanQuatermain) | Time Machine integration in Cocoa apps |
 | **2008** |||
 | 01/08 | [David LeBer](http://davidleber.net) | State of WebObjects 5.4, Eclipse & WOLips |
-| | Hossein Rahnama | Socially–aware systems |
+| | [Hossein Rahnama](http://flybits.com) | Socially–aware systems |
 | 04/08 | [Steve Hayman](https://twitter.com/shayman) | iPhone SDK |
 | 07/08 | [Brandon Walkin](http://brandonwalkin.com) | BWToolkit |
-| 10/21 | Hossein Rahnama | Demo of a new app |
+| 10/21 | [Hossein Rahnama](http://flybits.com) | Demo of a new app |
 | **2009** |||
 | 01/13 | open discussion | iPhone Tech Talk recap; MWSF discussion; Q&A; tips |
 | | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of MarketCircle apps |
