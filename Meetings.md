@@ -68,3 +68,40 @@
 | 11/10 | [Brian Gilham](http://www.briangilham.com) | WatchKit |
 | **2016** |||
 | 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | Cellular automata |
+
+| Number of Presentations |
+| :------------- | 
+| **7** |
+|  [Karl Moskowski](https://about.me/kolpanic) |
+| **6** |
+| [David LeBer](http://davidleber.net) |
+| **4** |
+| [Jim Dovey](https://twitter.com/alanQuatermain) |
+| **3** |
+| [Brent Gulanowski](https://twitter.com/BoredAstronaut) |
+| [Ash Furrow](http://ashfurrow.com) |
+| [Anluan O'Brien](https://twitter.com/auibrian) |
+| **2** |
+| [Hossein Rahnama](http://flybits.com) |
+| [Brandon Walkin](http://brandonwalkin.com) |
+| [David Aspinall](https://twitter.com/daspinall) |
+| [Aaron Vegh](https://twitter.com/aaronvegh) |
+| [Derek Longmuir](https://twitter.com/dereklongmuir) |
+| [Ryder Mackay](https://twitter.com/rydermackay) |
+| [Darren Baptiste](http://darrenbaptiste.com) |
+| [Rob Rix](https://twitter.com/rob_rix) |
+| **1** |
+| [Brian Gilham](http://www.briangilham.com) |
+| [Robin Senior](https://twitter.com/senior) |
+| [Farley Caesar](https://about.me/farleycaesar) |
+| [Taylan Pince](https://twitter.com/taylanpince) |
+| Marc Prud'hommeaux |
+| [Josh Tidsbury](https://twitter.com/joshtidsbury) |
+| [Mark Pavlidis](https://twitter.com/mhp) |
+| [Dave Fernandes](http://mintleafsoftware.com/about-mintleaf/company-founder.html) |
+| [Rune Madsen](https://twitter.com/runmad) |
+| [Austin Ziegler](https://twitter.com/halostatue) |
+| [Steve Hayman](https://twitter.com/shayman) |
+| [Iain Delaney](https://twitter.com/IainDelaney) |
+| [Ken Bereskin](https://twitter.com/rs4yyz) |
+| Mark Ritchie |
