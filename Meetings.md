@@ -88,11 +88,11 @@
 | [Darren Baptiste](http://darrenbaptiste.com) |
 | [Derek Longmuir](https://twitter.com/dereklongmuir) |
 | [Ryder Mackay](https://twitter.com/rydermackay) |
+| [Mark Pavlidis](https://twitter.com/mhp) |
 | [Hossein Rahnama](http://flybits.com) |
 | [Rob Rix](https://twitter.com/rob_rix) |
 | [Aaron Vegh](https://twitter.com/aaronvegh) |
 | [Brandon Walkin](http://brandonwalkin.com) |
-| [Mark Pavlidis](https://twitter.com/mhp) |
 | **1** |
 | [Ken Bereskin](https://twitter.com/rs4yyz) |
 | [Farley Caesar](https://about.me/farleycaesar) |
