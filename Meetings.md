@@ -68,7 +68,7 @@
 | 11/10 | [Brian Gilham](http://www.briangilham.com) | WatchKit | |
 | **2016** ||||
 | 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | Cellular automata | |
-| 03 | | | |
+| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
 | 05 | | | Our 10th anniversary|
 
 | Number of Presentations |
@@ -92,6 +92,7 @@
 | [Rob Rix](https://twitter.com/rob_rix) |
 | [Aaron Vegh](https://twitter.com/aaronvegh) |
 | [Brandon Walkin](http://brandonwalkin.com) |
+| [Mark Pavlidis](https://twitter.com/mhp) |
 | **1** |
 | [Ken Bereskin](https://twitter.com/rs4yyz) |
 | [Farley Caesar](https://about.me/farleycaesar) |
@@ -100,7 +101,6 @@
 | [Brian Gilham](http://www.briangilham.com) |
 | [Steve Hayman](https://twitter.com/shayman) |
 | [Rune Madsen](https://twitter.com/runmad) |
-| [Mark Pavlidis](https://twitter.com/mhp) |
 | [Taylan Pince](https://twitter.com/taylanpince) |
 | Marc Prud'hommeaux |
 | Mark Ritchie |
