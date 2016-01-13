@@ -22,7 +22,7 @@
 |12| 10/21 | [Hossein Rahnama](http://flybits.com) | Demo of a new app | |
 | **2009** |||||
 |13| 01/13 | open discussion | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
-|| | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of MarketCircle apps | |
+|| | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of Marketcircle apps | |
 |14| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
 |15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
 |16| 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks | |
