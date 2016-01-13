@@ -48,7 +48,7 @@
 | **2013** |||||
 |31| 01/08 | [Mark Pavlidis](https://twitter.com/mhp) | Core Image | |
 |32| 03/12 | [Anluan O'Brien](https://twitter.com/auibrian) | NSURLProtocol | |
-|33| 05/14 | [Ryder Mackay](https://twitter.com/rydermackay) | AVFoundation | First Meetup-powered meeting|
+|33| 05/14 | [Ryder Mackay](https://twitter.com/rydermackay) | [AVFoundation](https://github.com/rydermackay/Spline) | First Meetup-powered meeting|
 |34| 07/09 | [Ash Furrow](http://ashfurrow.com) | UICollectionView | |
 |35| 09/10 | [Darren Baptiste](http://darrenbaptiste.com) | PassKit | |
 |36| 11/12 | [Rob Rix](https://twitter.com/rob_rix) | Lazy evaluation, NSFastEnum, and the origin of RXCollections | |
@@ -64,7 +64,7 @@
 |44| 03/10 | [Farley Caesar](https://about.me/farleycaesar) | Functional programming in Swift | |
 |45| 05/12 | [Robin Senior](https://twitter.com/senior) | [Rewriting Your First WatchKit App](https://speakerdeck.com/robinsenior/re-writing-your-first-watchkit-app) | |
 |46| 07/07 | [Anluan O'Brien](https://twitter.com/auibrian) | Synergy | |
-|47| 09/08 | [Ryder Mackay](https://twitter.com/rydermackay) | Metal | |
+|47| 09/08 | [Ryder Mackay](https://twitter.com/rydermackay) | [Metal](https://github.com/rydermackay/MetalTalk) | |
 |48| 11/10 | [Brian Gilham](http://www.briangilham.com) | WatchKit | |
 | **2016** |||||
 |49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
