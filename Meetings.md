@@ -62,7 +62,7 @@
 | **2015** |||||
 |43| 01/13 | [Taylan Pince](https://twitter.com/taylanpince) | Hardware integration in iOS and OS X apps | First nomadic meeting, at The Score |
 |44| 03/10 | [Farley Caesar](https://about.me/farleycaesar) | Functional programming in Swift | |
-|45| 05/12 | [Robin Senior](https://twitter.com/senior) | Rewriting Your First WatchKit App | |
+|45| 05/12 | [Robin Senior](https://twitter.com/senior) | [Rewriting Your First WatchKit App](https://speakerdeck.com/robinsenior/re-writing-your-first-watchkit-app) | |
 |46| 07/07 | [Anluan O'Brien](https://twitter.com/auibrian) | Synergy | |
 |47| 09/08 | [Ryder Mackay](https://twitter.com/rydermackay) | Metal | |
 |48| 11/10 | [Brian Gilham](http://www.briangilham.com) | WatchKit | |
