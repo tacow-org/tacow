@@ -1,4 +1,4 @@
-| | Date | Speakers | Topics | Notes |
+| Meeting | Date | Speakers | Topics | Notes |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | **2006** |||||
 |1| 04/11 | [Karl Moskowski](https://about.me/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ|
