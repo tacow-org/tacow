@@ -8,7 +8,7 @@
 | **2007** |||||
 |4| 01/09 | [Karl Moskowski](https://about.me/kolpanic) | Automating software updates in Cocoa apps | |
 || | [David LeBer](http://davidleber.net) | Using Eclipse & WOLips | |
-|5| 04/10 | [Karl Moskowski](https://about.me/kolpanic) | Developing Automator actions | |
+|5| 04/10 | [Karl Moskowski](https://about.me/kolpanic) | [Developing Automator actions](https://github.com/kolpanic/Automator-Pack) | |
 || | [David LeBer](http://davidleber.net) | Ruby on Rails | |
 |6| 07/10 | [Karl Moskowski](https://about.me/kolpanic) | Resolution independence in Cocoa apps | |
 || | [David LeBer](http://davidleber.net) | WOLips component editor; ProjectWONDER Ajax FW | |
@@ -24,12 +24,12 @@
 |13| 01/13 | open discussion | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
 || | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of MarketCircle apps | |
 |14| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
-|15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | ZipKit | |
+|15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
 |16| 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks | |
 || | [Aaron Vegh](https://twitter.com/aaronvegh) | Blitz talk | |
 | **2010** |||||
 |17| 01/26 | [Austin Ziegler](https://twitter.com/halostatue) | Automatic build numbering with git for the app store submission; dSYM archiving; MBProgressHUD+Extensions; NSManagedObjectContext-FastFetch Context+Extensions | |
-|18| 04/13 | [Karl Moskowski](https://about.me/kolpanic) | Coruscation, a Sparkle update utility | First meeting at Metro Hall |
+|18| 04/13 | [Karl Moskowski](https://about.me/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/Coruscation) | First meeting at Metro Hall |
 |19| 07/06 | [David LeBer](http://davidleber.net) | WWDC recap; WebObjects Direct to Web (D2W) | |
 |20| 10/12 | [Jim Dovey](https://twitter.com/alanQuatermain) | iOS data and network optimization techniques | |
 || **2011** ||||
@@ -67,7 +67,7 @@
 |47| 09/08 | [Ryder Mackay](https://twitter.com/rydermackay) | Metal | |
 |48| 11/10 | [Brian Gilham](http://www.briangilham.com) | WatchKit | |
 | **2016** |||||
-|49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | Cellular automata | |
+|49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 |50| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
 |51| 05 | | | Our 10th anniversary|
 
