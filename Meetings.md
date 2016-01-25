@@ -32,7 +32,7 @@
 |18| 04/13 | [Karl Moskowski](https://about.me/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/Coruscation) | First meeting at Metro Hall |
 |19| 07/06 | [David LeBer](http://davidleber.net) | WWDC recap; WebObjects Direct to Web (D2W) | |
 |20| 10/12 | [Jim Dovey](https://twitter.com/alanQuatermain) | iOS data and network optimization techniques | |
-|| **2011** ||||
+| **2011** |||||
 |21| 01/18 | [Karl Moskowski](https://about.me/kolpanic) | Prettifying Objective-C | |
 |22| 04/12 | [David Aspinall](https://twitter.com/daspinall) | Sync | |
 |23| 07/12 | [Rune Madsen](https://twitter.com/runmad) | Core Location | |
