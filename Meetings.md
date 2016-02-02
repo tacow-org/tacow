@@ -14,7 +14,7 @@
 || | [David LeBer](http://davidleber.net) | WOLips component editor; ProjectWONDER Ajax FW | |
 |8| 11/13 | [Iain Delaney](https://twitter.com/IainDelaney) | Indie development | |
 || | [Jim Dovey](https://twitter.com/alanQuatermain) | Time Machine integration in Cocoa apps | |
-| **2008** ||||!
+| **2008** |||||
 |9| 01/08 | [David LeBer](http://davidleber.net) | State of WebObjects 5.4, Eclipse & WOLips | |
 || | [Hossein Rahnama](http://flybits.com) | Socially–aware systems | |
 |10| 04/08 | [Steve Hayman](https://twitter.com/shayman) | iPhone SDK | |
