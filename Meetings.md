@@ -72,8 +72,8 @@
 |51| 05 | 05/10 | | Our 10th anniversary|
 | | | | [Karl Moskowski](https://twitter.com/kolpanic) | OS X Screen Savers |
 
-| Number of Presentations |
-| :------------- | 
+| Number of Presentations | |
+| :------------- | :------------- |
 | **8** |  [Karl Moskowski](https://about.me/kolpanic) |
 | **6** | [David LeBer](http://davidleber.net) |
 | **4** | [Jim Dovey](https://twitter.com/alanQuatermain) |
