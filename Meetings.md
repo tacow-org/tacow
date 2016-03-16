@@ -72,7 +72,7 @@
 |51| 05 | 05/10 | | Our 10th anniversary|
 | | | | [Karl Moskowski](https://twitter.com/kolpanic) | OS X Screen Savers |
 
-| Number of Presentations | |
+| Number of Presentations | Speaker |
 | :------------- | :------------- |
 | **8** |  [Karl Moskowski](https://about.me/kolpanic) |
 | **6** | [David LeBer](http://davidleber.net) |
@@ -80,7 +80,7 @@
 | **3**  | [Ash Furrow](http://ashfurrow.com) |
 | | [Brent Gulanowski](https://twitter.com/BoredAstronaut) |
 | | [Anluan O'Brien](https://twitter.com/auibrian) |
-| | **2** | [David Aspinall](https://twitter.com/daspinall) |
+| **2** | [David Aspinall](https://twitter.com/daspinall) |
 | | [Darren Baptiste](http://darrenbaptiste.com) |
 | | [Derek Longmuir](https://twitter.com/dereklongmuir) |
 | | [Ryder Mackay](https://twitter.com/rydermackay) |
