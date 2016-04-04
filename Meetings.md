@@ -1,6 +1,6 @@
 | Meeting | Date | Speakers | Topics | Notes |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| **2006** |||||
+| | **2006** ||||
 |1| 04/11 | [Karl Moskowski](https://about.me/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ|
 || | [David LeBer](http://davidleber.net) | Ajax with WebObjects | |
 |2| 07/11 | Mark Ritchie | Profiling with Shark | First meeting at Ryerson|
