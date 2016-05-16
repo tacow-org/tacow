@@ -70,7 +70,7 @@
 |49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 |50| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
 |51| 05/17 | | Our 10th anniversary|
-| | | [Karl Moskowski](https://twitter.com/kolpanic) | OS X Screen Savers |
+| | | [Karl Moskowski](https://twitter.com/kolpanic) | [OS X Screen Savers](https://github.com/kolpanic/tacow-Screen-Savers) |
 
 | Number of Presentations | Speaker |
 | :------------- | :------------- |
