@@ -49,7 +49,7 @@
 
 ### May
 
-* Our first Meetup-powered meeting. AgileBits covers our organizer fees.
+* Our first Meetup-powered meeting. [AgileBits](https://1password.com) covers our organizer fees.
 
 ## 2015
 
@@ -57,10 +57,10 @@
 
 ### January
 
-* Our first "nomadic" meeting, at The Score.
+* Our first "nomadic" meeting, at [The Score](http://thescore.com/).
 
 ## 2016
 
 ### May
 
-* Our 51st meeting and our nominal 10th anniversary. During this time, we've had 28 different speakers.
+* Our 51st meeting and our nominal 10th anniversary. During this time, we've had 28 different [speakers](Meetings.md).
