@@ -69,8 +69,7 @@
 | | **2016** ||||
 |49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 |50| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
-|51| 05/17 | | Our 10th anniversary|
-| | | [Karl Moskowski](https://twitter.com/kolpanic) | [OS X Screen Savers](https://github.com/kolpanic/tacow-Screen-Savers) |
+|51| 05/17 | [Karl Moskowski](https://twitter.com/kolpanic) | [OS X Screen Savers](https://github.com/kolpanic/tacow-Screen-Savers) | Our 10th anniversary |
 |52| 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/)|
 
 
@@ -104,3 +103,4 @@
 | | [Robin Senior](https://twitter.com/senior) |
 | | [Josh Tidsbury](https://twitter.com/joshtidsbury) |
 | | [Austin Ziegler](https://twitter.com/halostatue) |
+| | [Dragos Ionel](https://twitter.com/dragosionel) |
