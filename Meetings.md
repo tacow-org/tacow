@@ -3,7 +3,7 @@
 | | **2006** ||||
 |1| 04/11 | [Karl Moskowski](https://about.me/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ|
 || | [David LeBer](http://davidleber.net) | Ajax with WebObjects | |
-|2| 07/11 | Mark Ritchie | Profiling with Shark | First meeting at Ryerson|
+|2| 07/11 | [Mark Ritchie](https://twitter.com/HandsOnChi) | Profiling with Shark | First meeting at Ryerson|
 |3| 10/10 | [Ken Bereskin](https://twitter.com/rs4yyz) | Mac OS X Leopard preview | Best-attended meeting ever, at around 90 people|
 | | **2007** ||||
 |4| 01/09 | [Karl Moskowski](https://about.me/kolpanic) | Automating software updates in Cocoa apps | |
@@ -21,7 +21,7 @@
 |11| 07/08 | [Brandon Walkin](http://brandonwalkin.com) | BWToolkit | |
 |12| 10/21 | [Hossein Rahnama](http://flybits.com) | Demo of a new app | |
 | | **2009** ||||
-|13| 01/13 | open discussion | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
+|13| 01/13 | | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
 || | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of Marketcircle apps | |
 |14| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
 |15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
@@ -37,7 +37,7 @@
 |22| 04/12 | [David Aspinall](https://twitter.com/daspinall) | Sync | |
 |23| 07/12 | [Rune Madsen](https://twitter.com/runmad) | Core Location | |
 |24| 10/11 | [Derek Longmuir](https://twitter.com/dereklongmuir) | iOS testing | |
-||  | open discussion | SecondConf recap | |
+||  | | SecondConf recap | |
 | | **2012** ||||
 |25| 01/10 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | BAScene (Scene Kit) | |
 |26| 03/13 | [Dave Fernandes](http://mintleafsoftware.com/about-mintleaf/company-founder.html) | A Mac app for voice and speech research—Core Data, Core Audio & Accelerate.framework | |
@@ -58,7 +58,7 @@
 |39| 05/13 | [Darren Baptiste](http://darrenbaptiste.com) | AppCode and Reveal.app | |
 |40| 07/08 | [Rob Rix](https://twitter.com/rob_rix) | Derivative parsers in Objective-C | |
 |41| 09/09 | [Anluan O'Brien](https://twitter.com/auibrian) | SpriteKit | |
-|42| 11/12 | Marc Prud'hommeaux | Thinking in Swift: new paradigms for the Objective-C coder | |
+|42| 11/12 | [Marc Prud'hommeaux](https://www.linkedin.com/in/mprudhom) | Thinking in Swift: new paradigms for the Objective-C coder | |
 | | **2015** ||||
 |43| 01/13 | [Taylan Pince](https://twitter.com/taylanpince) | Hardware integration in iOS and OS X apps | First nomadic meeting, at The Score |
 |44| 03/10 | [Farley Caesar](https://about.me/farleycaesar) | Functional programming in Swift | |
