@@ -71,7 +71,7 @@
 |50| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
 |51| 05/17 | [Karl Moskowski](https://twitter.com/kolpanic) | [OS X Screen Savers](https://github.com/kolpanic/tacow-Screen-Savers) | Our 10th anniversary |
 |52| 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/)|
-
+| | | [Sergii Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming |
 
 | Number of Presentations | Speaker |
 | :------------- | :------------- |
@@ -104,3 +104,4 @@
 | | [Josh Tidsbury](https://twitter.com/joshtidsbury) |
 | | [Austin Ziegler](https://twitter.com/halostatue) |
 | | [Dragos Ionel](https://twitter.com/dragosionel) |
+| | [Sergii Gavrilyuk](https://twitter.com/octogavrix) |
