@@ -64,3 +64,7 @@
 ### May
 
 * Our 51st meeting and our nominal 10th anniversary. During this time, we've had 28 different [speakers](Meetings.md).
+
+### September
+
+* Robin Senior and Paddy O'Brien take over running tacow 
