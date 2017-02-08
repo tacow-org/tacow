@@ -74,6 +74,9 @@
 | | | [Sergii Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming |
 |53| 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/)|
 | | | [Dennis Pilarinos](https://twitter.com/dennispilarinos) | [buddybuild](https://buddybuild.com) |
+|54| 08/11 | [Richard Martin](https://twitter.com/richardgmartin) | Google Firebase|
+| | **2017** ||||
+|55| 01/10 | [Ryder Mackay](https://twitter.com/rydermackay) | Integrating Touch Bar Support into your Mac App|
 
 | Number of Presentations | Speaker |
 | :------------- | :------------- |
@@ -83,10 +86,10 @@
 | **3**  | [Ash Furrow](http://ashfurrow.com) |
 | | [Brent Gulanowski](https://twitter.com/BoredAstronaut) |
 | | [Anluan O'Brien](https://twitter.com/auibrian) |
+| | [Ryder Mackay](https://twitter.com/rydermackay) |
 | **2** | [David Aspinall](https://twitter.com/daspinall) |
 | | [Darren Baptiste](http://darrenbaptiste.com) |
 | | [Derek Longmuir](https://twitter.com/dereklongmuir) |
-| | [Ryder Mackay](https://twitter.com/rydermackay) |
 | | [Mark Pavlidis](https://twitter.com/mhp) |
 | | [Hossein Rahnama](http://flybits.com) |
 | | [Rob Rix](https://twitter.com/rob_rix) |
