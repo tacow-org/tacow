@@ -100,6 +100,7 @@
 | | [Rob Rix](https://twitter.com/rob_rix) |
 | | [Aaron Vegh](https://twitter.com/aaronvegh) |
 | | [Brandon Walkin](http://brandonwalkin.com) |
+| | [Taylan Pince](http://twitter.com/taylanpince) |
 | **1** | [Ken Bereskin](https://twitter.com/rs4yyz) |
 | | [Farley Caesar](https://about.me/farleycaesar) |
 | | [Iain Delaney](https://twitter.com/IainDelaney) |
@@ -117,3 +118,9 @@
 | | [Sergii Gavrilyuk](https://twitter.com/octogavrix) |
 | | [Fareed Quraishi](https://twitter.com/IamFareedQ) |
 | | [Dennis Pilarinos](https://twitter.com/dennispilarinos) |
+| | [Richard Martin](https://twitter.com/richardgmartin) |
+| | [David Muzi](https://github.com/davidmuzi) |
+| | [Uzair Khan](https://twitter.com/UzairKhan31) |
+| | Steven Wu |
+| | [Lyle Resnick](https://github.com/lyleresnick) |
+  
