@@ -24,7 +24,7 @@
 |13| 01/13 | | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
 || | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of Marketcircle apps | |
 |14| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
-|15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
+|15| 07/14 | [Karl Moskowski]gabr(https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
 |16| 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks | |
 || | [Aaron Vegh](https://twitter.com/aaronvegh) | Blitz talk | |
 | | **2010** ||||
@@ -119,6 +119,7 @@
 | | [Dennis Pilarinos](https://twitter.com/dennispilarinos) |
 | | [Richard Martin](https://twitter.com/richardgmartin) |
 | | [David Muzi](https://github.com/davidmuzi) |
+| | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) |
 | | [Uzair Khan](https://twitter.com/UzairKhan31) |
 | | Steven Wu |
 | | [Lyle Resnick](https://github.com/lyleresnick) |
