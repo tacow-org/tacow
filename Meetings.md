@@ -74,7 +74,7 @@
 | | | [Sergii Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming |
 |53| 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/)|
 | | | [Dennis Pilarinos](https://twitter.com/dennispilarinos) | [buddybuild](https://buddybuild.com) |
-|54| 08/11 | [Richard Martin](https://twitter.com/richardgmartin) | Google Firebase|
+|54| 11/08 | [Richard Martin](https://twitter.com/richardgmartin) | Google Firebase|
 | | **2017** ||||
 |55| 01/10 | [Ryder Mackay](https://twitter.com/rydermackay) | Integrating Touch Bar Support into your Mac App|
 |56| 03/07 | [Taylan Pince](http://taylanpince.com) | Jenkins|
