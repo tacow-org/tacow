@@ -64,3 +64,7 @@
 ### May
 
 * Our 51st meeting and our nominal 10th anniversary. During this time, we've had 28 different [speakers](Meetings.md).
+
+### September
+
+* After more than 10 years running tacow, Karl Moskowski and David LeBer step down as organizers, [handing over the reins to Robin Senior and Paddy O'Brien](https://www.meetup.com/tacow-org/messages/79085424/).
