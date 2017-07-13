@@ -77,6 +77,11 @@
 |54| 08/11 | [Richard Martin](https://twitter.com/richardgmartin) | Google Firebase|
 | | **2017** ||||
 |55| 01/10 | [Ryder Mackay](https://twitter.com/rydermackay) | Integrating Touch Bar Support into your Mac App|
+|56| 03/07 | [Taylan Pince](http://taylanpince.com) | Jenkins|
+| | | [David Muzi](https://github.com/davidmuzi) | GraphQL|
+|57| 05/09 | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) | Giovanni|
+|58| 07/11 |  Uzair Khan and Steven Wu | Introduction to testing and  behavior-driven development|
+| | | Lyle Resnick | TDD & Viper|
 
 | Number of Presentations | Speaker |
 | :------------- | :------------- |
