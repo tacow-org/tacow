@@ -108,7 +108,6 @@
 | | [Brian Gilham](http://www.briangilham.com) |
 | | [Steve Hayman](https://twitter.com/shayman) |
 | | [Rune Madsen](https://twitter.com/runmad) |
-| | [Taylan Pince](https://twitter.com/taylanpince) |
 | | [Marc Prud'hommeaux](https://www.linkedin.com/in/mprudhom) |
 | | [Mark Ritchie](https://twitter.com/HandsOnChi) |
 | | [Robin Senior](https://twitter.com/senior) |
