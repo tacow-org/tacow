@@ -82,6 +82,24 @@
 |57| 05/09 | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) | Giovanni|
 |58| 07/11 |  Uzair Khan and Steven Wu | Introduction to testing and  behavior-driven development|
 | | | Lyle Resnick | TDD & Viper|
+|59| 9/12 | Greg Heo | Xcode analysis and sanitizing tools |  |
+|60| 11/14 | Frank Courville | NSOperations | First meeting at Connected Lab |
+|  |  | Alex Christodoulou | ComponentKit |  |
+| | **2018** ||||
+|61| 1/9 | Sergey Gavrilyuk | Promises |  |
+| | | Anluan O’Brien | Core Data |  |
+|62| 2/20 | Alex Christodoulou & Paul Huang | TDD Code Kata part 1 | First workshop |
+|63| 3/6 | Paul Huang | Reverse engineering iOS apps |  |
+| | | Raul Riera | Functional Table Data |  |
+|64| 4/10 | Alex Christodoulou & Paul Huang | TDD Code Kata part 2 |  |
+|65| 5/8 | Jerry Yu | User tracking with uptime | First lightning talks, first meeting at Tulip Retail |
+| | | Kathleen Chung | Automated builds at Freshbooks |  |
+| | | Alex Figueroa | Autolayout |  |
+| | | Elad Tchetchik/Sahil Gupta | Dependency Injection |  |
+| | | Ryder Mackay | UXKit & reverse engineering w/ Hopper |  |
+|66| 7/10 | Kyle Newson | Serverless Swift | First meeting at Shopify |
+| | | Alex Figueroa | Autolayout |  |
+| | | Colin Biggin | WebRTC |  |
 
 | Number of Presentations | Speaker |
 | :------------- | :------------- |
