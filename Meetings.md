@@ -8,7 +8,7 @@
 | | **2007** ||||
 |4| 01/09 | [Karl Moskowski](https://about.me/kolpanic) | Automating software updates in Cocoa apps | |
 || | [David LeBer](http://davidleber.net) | Using Eclipse & WOLips | |
-|5| 04/10 | [Karl Moskowski](https://about.me/kolpanic) | [Developing Automator actions](https://github.com/kolpanic/Automator-Pack) | |
+|5| 04/10 | [Karl Moskowski](https://about.me/kolpanic) | [Developing Automator actions](https://github.com/kolpanic/tacow-presentations/tree/master/2007-04-10%20Automator%20Actions) | |
 || | [David LeBer](http://davidleber.net) | Ruby on Rails | |
 |6| 07/10 | [Karl Moskowski](https://about.me/kolpanic) | Resolution independence in Cocoa apps | |
 || | [David LeBer](http://davidleber.net) | WOLips component editor; ProjectWONDER Ajax FW | |
@@ -24,12 +24,12 @@
 |13| 01/13 | | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
 || | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of Marketcircle apps | |
 |14| 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
-|15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/ZipKit) | |
+|15| 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/tacow-presentations/tree/master/2009-07-14%20ZipKit) | |
 |16| 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks | |
 || | [Aaron Vegh](https://twitter.com/aaronvegh) | Blitz talk | |
 | | **2010** ||||
 |17| 01/26 | [Austin Ziegler](https://twitter.com/halostatue) | Automatic build numbering with git for the app store submission; dSYM archiving; MBProgressHUD+Extensions; NSManagedObjectContext-FastFetch Context+Extensions | |
-|18| 04/13 | [Karl Moskowski](https://about.me/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/Coruscation) | First meeting at Metro Hall |
+|18| 04/13 | [Karl Moskowski](https://about.me/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/tacow-presentations/tree/master/2010-04-13%20Coruscation) | First meeting at Metro Hall |
 |19| 07/06 | [David LeBer](http://davidleber.net) | WWDC recap; WebObjects Direct to Web (D2W) | |
 |20| 10/12 | [Jim Dovey](https://twitter.com/alanQuatermain) | iOS data and network optimization techniques | |
 | | **2011** ||||
@@ -69,7 +69,7 @@
 | | **2016** ||||
 |49| 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 |50| 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
-|51| 05/17 | [Karl Moskowski](https://twitter.com/kolpanic) | [OS X Screen Savers](https://github.com/kolpanic/tacow-Screen-Savers) | Our 10th anniversary |
+|51| 05/17 | [Karl Moskowski](https://about.me/kolpanic) | [Screen Savers](https://github.com/kolpanic/tacow-presentations/tree/master/2016-05-17%20Screen%20Savers) | 10th anniversary meeting |
 |52| 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/)|
 | | | [Sergii Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming |
 |53| 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/)|
