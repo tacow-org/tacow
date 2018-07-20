@@ -98,7 +98,7 @@
 | | | Elad Tchetchik/Sahil Gupta | Dependency Injection |  |
 | | | Ryder Mackay | UXKit & reverse engineering w/ Hopper |  |
 |66| 7/10 | Kyle Newson | Serverless Swift | First meeting at Shopify |
-| | | Alex Figueroa | Autolayout |  |
+| | | Alex Figueroa | [3 Things I Was Afraid to Ask About Auto Layout](https://speakerdeck.com/ajfigueroa/3-things-i-was-afraid-to-ask-about-auto-layout) |  |
 | | | Colin Biggin | WebRTC |  |
 
 | Number of Presentations | Speaker |
