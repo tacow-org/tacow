@@ -82,9 +82,9 @@
 | 57 | 05/09 | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) | Giovanni ||
 | 58 | 07/11 | Uzair Khan & Steven Wu | Introduction to testing and behavior-driven development ||
 | | | Lyle Resnick | TDD & Viper ||
-| 59 | 9/12 | Greg Heo | Xcode analysis and sanitizing tools | |
-| 60 | 11/14 | Frank Courville | NSOperations | First meeting at Connected Lab |
-| | | Alex Christodoulou | ComponentKit | |
+| 59 | 9/12 | Greg Heo | [Sanitizing All The Things](https://www.youtube.com/watch?v=loJURRlYksY) | |
+| 60 | 11/14 | Frank Courville | [NSOperations](https://www.youtube.com/watch?v=Gmr_wkeuSfw) | First meeting at Connected Lab |
+| | | Alex Christodoulou | [ComponentKit](https://www.youtube.com/watch?v=4WjWN0mtu9w) | |
 | | **2018** | | | |
 | 61 | 1/9 | [Sergey Gavrilyuk](https://twitter.com/octogavrix) | Promises | |
 | | | [Anluan O'Brien](https://twitter.com/auibrian) | Core Data | |
