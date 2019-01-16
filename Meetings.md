@@ -70,21 +70,21 @@
 | 49 | 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 | 50 | 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
 | 51 | 05/17 | [Karl Moskowski](https://about.me/kolpanic) | [Screen Savers](https://github.com/kolpanic/tacow-presentations/tree/master/2016-05-17%20Screen%20Savers) | 10th anniversary meeting |
-| 52 | 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/) |
-| | | [Sergey Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming |
-| 53 | 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/) |
+| 52 | 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/) ||
+| | | [Sergey Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming ||
+| 53 | 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/) ||
 | | | [Dennis Pilarinos](https://twitter.com/dennispilarinos) | [buddybuild](https://buddybuild.com) | |
 | 54 | 11/08 | [Richard Martin](https://twitter.com/richardgmartin) | Google Firebase | First meeting of the Robin & Paddy era |
 | | **2017** | | | |
-| 55 | 01/10 | [Ryder Mackay](https://twitter.com/rydermackay) | Integrating Touch Bar Support into your Mac App |
-| 56 | 03/07 | [Taylan Pince](http://taylanpince.com) | Jenkins |
-| | | [David Muzi](https://github.com/davidmuzi) | GraphQL |
-| 57 | 05/09 | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) | Giovanni |
-| 58 | 07/11 | Uzair Khan & Steven Wu | Introduction to testing and behavior-driven development |
-| | | Lyle Resnick | TDD & Viper |
-| 59 | 9/12 | Greg Heo | Xcode analysis and sanitizing tools | |
-| 60 | 11/14 | Frank Courville | NSOperations | First meeting at Connected Lab |
-| | | Alex Christodoulou | ComponentKit | |
+| 55 | 01/10 | [Ryder Mackay](https://twitter.com/rydermackay) | Integrating Touch Bar Support into your Mac App ||
+| 56 | 03/07 | [Taylan Pince](http://taylanpince.com) | Jenkins ||
+| | | [David Muzi](https://github.com/davidmuzi) | GraphQL ||
+| 57 | 05/09 | [Gabriel O'Flaherty-Chan](http://gabrieloc.com) | Giovanni ||
+| 58 | 07/11 | Uzair Khan & Steven Wu | Introduction to testing and behavior-driven development ||
+| | | Lyle Resnick | TDD & Viper ||
+| 59 | 9/12 | Greg Heo | [Sanitizing All The Things](https://www.youtube.com/watch?v=loJURRlYksY) | |
+| 60 | 11/14 | Frank Courville | [NSOperations](https://www.youtube.com/watch?v=Gmr_wkeuSfw) | First meeting at Connected Lab |
+| | | Alex Christodoulou | [ComponentKit](https://www.youtube.com/watch?v=4WjWN0mtu9w) | |
 | | **2018** | | | |
 | 61 | 1/9 | [Sergey Gavrilyuk](https://twitter.com/octogavrix) | Promises | |
 | | | [Anluan O'Brien](https://twitter.com/auibrian) | Core Data | |
@@ -106,3 +106,7 @@
 | | | [Kyle Newsome](https://twitter.com/kylnew) | ARKit 2 | |
 | 69 | 11/13 | [Paige Sun](https://twitter.com/_PaigeSun) | A whirlwind tour of ARKit 2 | |
 | | | [Akbar Nurlybayev](https://twitter.com/atkabai) | Backends For Frontends (BFFs) | |
+|  | **2019** |  |  | |
+| 70 | 1/15 | [Greg Heo](https://twitter.com/gregheo) | [Fun with flags: Swift, Synchronization, and Semaphores](https://gregheo.com/blog/fun-with-flags/) | |
+|  |  | [Taylan Pince](http://taylanpince.com) | [UI Testing at Hipo Labs](https://github.com/Hipo/swift-mimic) | |
+|  |  | Mark Onyschuk | Observer framework | |
