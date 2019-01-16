@@ -106,3 +106,7 @@
 | | | [Kyle Newsome](https://twitter.com/kylnew) | ARKit 2 | |
 | 69 | 11/13 | [Paige Sun](https://twitter.com/_PaigeSun) | A whirlwind tour of ARKit 2 | |
 | | | [Akbar Nurlybayev](https://twitter.com/atkabai) | Backends For Frontends (BFFs) | |
+|  | **2019** |  |  | |
+| 70 | 1/15 | [Greg Heo](https://twitter.com/gregheo) | [Fun with flags: Swift, Synchronization, and Semaphores](https://gregheo.com/blog/fun-with-flags/) | |
+|  |  | [Taylan Pince](http://taylanpince.com) | [UI Testing at Hipo Labs](https://github.com/Hipo/swift-mimic) | |
+|  |  | Mark Onyschuk | Observer framework | |
