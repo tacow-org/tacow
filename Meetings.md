@@ -1,16 +1,16 @@
 | Meeting | Date | Speakers | Topics | Notes |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | | **2006** | | | |
-| 1 | 04/11 | [Karl Moskowski](https://about.me/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ |
+| 1 | 04/11 | [Karl Moskowski](https://github.com/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ |
 | | | [David LeBer](http://davidleber.net) | Ajax with WebObjects | |
 | 2 | 07/11 | [Mark Ritchie](https://twitter.com/HandsOnChi) | Profiling with Shark | First meeting at Ryerson |
 | 3 | 10/10 | [Ken Bereskin](https://twitter.com/rs4yyz) | Mac OS X Leopard preview | Best-attended meeting ever, at around 90 people |
 | | **2007** | | | |
-| 4 | 01/09 | [Karl Moskowski](https://about.me/kolpanic) | Automating software updates in Cocoa apps | |
+| 4 | 01/09 | [Karl Moskowski](https://github.com/kolpanic) | Automating software updates in Cocoa apps | |
 | | | [David LeBer](http://davidleber.net) | Using Eclipse & WOLips | |
-| 5 | 04/10 | [Karl Moskowski](https://about.me/kolpanic) | [Developing Automator actions](https://github.com/kolpanic/tacow-presentations/tree/master/2007-04-10%20Automator%20Actions) | |
+| 5 | 04/10 | [Karl Moskowski](https://github.com/kolpanic) | [Developing Automator actions](https://github.com/kolpanic/tacow-presentations/tree/master/2007-04-10%20Automator%20Actions) | |
 | | | [David LeBer](http://davidleber.net) | Ruby on Rails | |
-| 6 | 07/10 | [Karl Moskowski](https://about.me/kolpanic) | Resolution independence in Cocoa apps | |
+| 6 | 07/10 | [Karl Moskowski](https://github.com/kolpanic) | Resolution independence in Cocoa apps | |
 | | | [David LeBer](http://davidleber.net) | WOLips component editor; ProjectWONDER Ajax FW | |
 | 8 | 11/13 | [Iain Delaney](https://twitter.com/IainDelaney) | Indie development | |
 | | | [Jim Dovey](https://twitter.com/alanQuatermain) | Time Machine integration in Cocoa apps | |
@@ -24,16 +24,16 @@
 | 13 | 01/13 | | iPhone Tech Talk recap; MWSF discussion; Q&A; tips | |
 | | | [Brent Gulanowski](https://twitter.com/BoredAstronaut) & [Brandon Walkin](http://brandonwalkin.com) | Demo of Marketcircle apps | |
 | 14 | 04/14 | [David Aspinall](https://twitter.com/daspinall) | Unit testing | |
-| 15 | 07/14 | [Karl Moskowski](https://about.me/kolpanic) | [ZipKit](https://github.com/kolpanic/tacow-presentations/tree/master/2009-07-14%20ZipKit) | |
+| 15 | 07/14 | [Karl Moskowski](https://github.com/kolpanic) | [ZipKit](https://github.com/kolpanic/tacow-presentations/tree/master/2009-07-14%20ZipKit) | |
 | 16 | 10/13 | [Jim Dovey](https://twitter.com/alanQuatermain) | GCD & blocks | |
 | | | [Aaron Vegh](https://twitter.com/aaronvegh) | Blitz talk | |
 | | **2010** | | | |
 | 17 | 01/26 | [Austin Ziegler](https://twitter.com/halostatue) | Automatic build numbering with git for the app store submission; dSYM archiving; MBProgressHUD+Extensions; NSManagedObjectContext-FastFetch Context+Extensions | |
-| 18 | 04/13 | [Karl Moskowski](https://about.me/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/tacow-presentations/tree/master/2010-04-13%20Coruscation) | First meeting at Metro Hall |
+| 18 | 04/13 | [Karl Moskowski](https://github.com/kolpanic) | [Coruscation, a Sparkle update utility](https://github.com/kolpanic/tacow-presentations/tree/master/2010-04-13%20Coruscation) | First meeting at Metro Hall |
 | 19 | 07/06 | [David LeBer](http://davidleber.net) | WWDC recap; WebObjects Direct to Web (D2W) | |
 | 20 | 10/12 | [Jim Dovey](https://twitter.com/alanQuatermain) | iOS data and network optimization techniques | |
 | | **2011** | | | |
-| 21 | 01/18 | [Karl Moskowski](https://about.me/kolpanic) | Prettifying Objective-C | |
+| 21 | 01/18 | [Karl Moskowski](https://github.com/kolpanic) | Prettifying Objective-C | |
 | 22 | 04/12 | [David Aspinall](https://twitter.com/daspinall) | Sync | |
 | 23 | 07/12 | [Rune Madsen](https://twitter.com/runmad) | Core Location | |
 | 24 | 10/11 | [Derek Longmuir](https://twitter.com/dereklongmuir) | iOS testing | |
@@ -69,7 +69,7 @@
 | | **2016** | | | |
 | 49 | 01/12 | [Brent Gulanowski](https://twitter.com/BoredAstronaut) | [Cellular automata](https://github.com/bgulanowski/Cellulon) | |
 | 50 | 03/08 | [Mark Pavlidis](https://twitter.com/mhp) | tvOS | |
-| 51 | 05/17 | [Karl Moskowski](https://about.me/kolpanic) | [Screen Savers](https://github.com/kolpanic/tacow-presentations/tree/master/2016-05-17%20Screen%20Savers) | 10th anniversary meeting |
+| 51 | 05/17 | [Karl Moskowski](https://github.com/kolpanic) | [Screen Savers](https://github.com/kolpanic/tacow-presentations/tree/master/2016-05-17%20Screen%20Savers) | 10th anniversary meeting |
 | 52 | 07/12 | [Dragos Ionel](https://twitter.com/dragosionel) | A short presentation on his new book, [Coding in Style](http://www.adelante.ca/instyle/) ||
 | | | [Sergey Gavrilyuk](https://twitter.com/octogavrix) | Recent developments in functional reactive programming ||
 | 53 | 09/13 | [Fareed Quraishi](https://twitter.com/IamFareedQ) | Server-side Swift with [Perfect](http://perfect.org/) ||
@@ -106,7 +106,25 @@
 | | | [Kyle Newsome](https://twitter.com/kylnew) | ARKit 2 | |
 | 69 | 11/13 | [Paige Sun](https://twitter.com/_PaigeSun) | A whirlwind tour of ARKit 2 | |
 | | | [Akbar Nurlybayev](https://twitter.com/atkabai) | Backends For Frontends (BFFs) | |
-|  | **2019** |  |  | |
+| | **2019** | | | |
 | 70 | 1/15 | [Greg Heo](https://twitter.com/gregheo) | [Fun with flags: Swift, Synchronization, and Semaphores](https://gregheo.com/blog/fun-with-flags/) | |
-|  |  | [Taylan Pince](http://taylanpince.com) | [UI Testing at Hipo Labs](https://github.com/Hipo/swift-mimic) | |
-|  |  | Mark Onyschuk | Observer framework | |
+| | | [Taylan Pince](http://taylanpince.com) | [UI Testing at Hipo Labs](https://github.com/Hipo/swift-mimic) | |
+| | | Mark Onyschuk | Observer framework | |
+| 71 | 3/12 | Dave Fernandes | NeurIPS conference summary | |
+| | | Aaron Vegh | A demo of CodeWerks, an app for coding on the iPad | |
+| 72 | 5/14 | Mark Pavlidis | App subscriptions | |
+| 73 | 7/9 | Kyle Newsome | Intro to Functional Programming in Swift | |
+| | | Tim Mitra | 5 Ways to become a better developer | |
+| 74 | 9/10 | Anluan O'Brien | Shared Code: Understanding Frameworks and Modules | |
+| | | Robin Senior | Shipping Industrial Strength Apps | |
+| 75 | 11/12 | Raul Riera | Using Property Wrappers | |
+| | | Robin Senior | Unleash the power of nil! | |
+| | | Sundeep Gupta | Context erosion and how to deal with it | |
+| | | Mark Collette | Learning Before the Point | |
+| | **2020** | | | |
+| 76 | 1/14 | Simon McNeil | His capstone project from Sheridan College | |
+| | | Kyle Newsome | A transparency report on his experiences putting on the amazing SwiftTO | |
+| | | Mark Collette | Lessons Learned with MVVM-C and RxSwift | |
+| | **2024** | | | |
+| 77 | 1/17 | Tim Mitra | 2024: How I Learned to Stop Worrying and Embrace visionOS | |
+| | | Uday Patial | To TDD or not to TDD | |
