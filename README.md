@@ -4,7 +4,7 @@
 
 | Meeting # | Date | Speaker | Topic | Notes |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| 1 | 2006-Apr-11 | [Karl Moskowski](https://github.com/kolpanic) | Subversion | First meeting, at the Market Centre at Apple's old Markham HQ; around 50 people attended |
+| 1 | 2006-Apr-11 | [Karl Moskowski](https://github.com/kolpanic) | Subversion | Announced [a month earlier](https://lists.apple.com/archives/cocoa-dev/2006/Mar/msg00483.html), our first meeting was held at the Market Centre at Apple's old Markham HQ. Around 50 people attended. |
 ||| [David LeBer](http://davidleber.net) | Ajax with WebObjects ||
 | 2 | 2006-Jun-11 | [Mark Ritchie](https://twitter.com/HandsOnChi) | Profiling with Shark | First meeting at Ryerson, hosted by Hossein Rahnama (who was introduced to us by Apple’s Willi Powell) |
 | 3 | 2006-Oct-10 | [Ken Bereskin](https://twitter.com/rs4yyz) | Mac OS X Leopard preview | Best-attended meeting ever, at around 90 people |
@@ -116,3 +116,6 @@
 ||| Mark Collette | Lessons Learned with MVVM-C and RxSwift ||
 | 77 | 2024-Jan-17 | Tim Mitra | 2024: How I Learned to Stop Worrying and Embrace visionOS | After a four-year break, our fist meeting since COVID; Anluan O’Brien takes over as organizer |
 ||| Uday Patial | To TDD or not to TDD ||
+| 78 | 2024-Apr-17 | Nilaakash Singh | SwiftUI migration and business impact | |
+||| James Ryu | Maestro, a mobile UI testing framework ||
+||| Franco Carbonaro | Lightning talk on the Repository Pattern ||
