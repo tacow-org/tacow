@@ -1,6 +1,6 @@
 ![](tacow-icon.png)
 
-## [tacow](http://www.meetup.com/tacow-org/) is the Toronto Area Cocoa and WebObjects Developers Group / Toronto CocoaHeads.
+## [tacow](https://luma.com/tacow) is the Toronto Area Cocoa and WebObjects Developers Group, aka [Toronto CocoaHeads](http://www.cocoaheads.org/ca/TorontoOntario/).
 
 | Meeting # | Date | Speaker | Topic | Notes |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
