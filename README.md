@@ -122,3 +122,6 @@
 | 79 | [2025-Aug-13](https://luma.com/838x57al) | [Mark Pavlidis](https://mstdn.ca/@mhp) | Liquid Glass for the rest of us. Adopting Liquid Glass in UIKit | First [luma](http://lu.ma/tacow)-powered meeting  |
 | | | [Chris Liscio](https://supermegaultragroovy.com) | High-Speed Numeric Displays; Or, How Not to Waste Energy Drawing The Same Ten Things | |
 | | | | Lightning talk | |
+| 80 | [2025-Nov-12](https://luma.com/erbo0n3k) | [Danijela Vrzan](https://iosdev.space/@dvrzan) | 10 Skills to Level Up Your Career | |
+| | | Speaker TBA | Topic TBA | |
+| | | | Lightning talks | |
