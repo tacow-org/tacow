@@ -125,3 +125,5 @@
 | 80 | [2025-Nov-12](https://luma.com/erbo0n3k) | [Danijela Vrzan](https://iosdev.space/@dvrzan) | 10 Skills to Level Up Your Career | |
 | | | [Mark Pavlidis](https://mstdn.ca/@mhp) | Parnas Tables in Practice: From Specification to Swift | |
 | | | | Lightning talks | |
+| 81 | [2026-Jul-28](https://luma.com/9olvx72d) | [Danijela Vrzan](https://iosdev.space/@dvrzan) | | |
+| | | [Mark Pavlidis](https://mstdn.ca/@mhp) | | |
