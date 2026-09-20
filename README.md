@@ -127,3 +127,4 @@
 | | | | Lightning talks | |
 | 81 | [2026-Jul-28](https://luma.com/9olvx72d) | [Danijela Vrzan](https://iosdev.space/@dvrzan) | | |
 | | | [Mark Pavlidis](https://mstdn.ca/@mhp) | | |
+| 82 | [2026-Sep-23](https://luma.com/si61f47a) | | | |
