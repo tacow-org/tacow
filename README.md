@@ -127,4 +127,6 @@
 | | | | Lightning talks | |
 | 81 | [2026-Jul-28](https://luma.com/9olvx72d) | [Danijela Vrzan](https://iosdev.space/@dvrzan) | | |
 | | | [Mark Pavlidis](https://mstdn.ca/@mhp) | | |
-| 82 | [2026-Sep-23](https://luma.com/si61f47a) | | | |
+| 82 | [2026-Sep-23](https://luma.com/si61f47a) | Murat Kaya | Building the Banking App for a Phone That Didn't Exist | |
+| | | Alex Sobolevskii | [Works on My Machine: I Don't](https://drive.google.com/file/d/17bVPr-BZH1xrBuMSiiIExWtYX01H9nzb/view) | |
+| | | Vu Nguyen | Demo: [Mahjong Sensei](https://mahjong.nguyen.vu) | |
